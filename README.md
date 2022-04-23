@@ -2,7 +2,8 @@
 
 Trabajo Practico Integrador Front End con Bootstrap, en Codo a Codo.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3db007ac-a137-46c0-8839-7182062d765c/deploy-status)](https://app.netlify.com/sites/tp-frontend-bootstrap/deploys) https://tp-frontend-bootstrap.netlify.app/
+El proyecto esta subido a Netlify  https://tp-frontend-bootstrap.netlify.app/ 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3db007ac-a137-46c0-8839-7182062d765c/deploy-status)](https://app.netlify.com/sites/tp-frontend-bootstrap/deploys)
 
 
 Se replica la siguiente página principal 
